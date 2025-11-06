@@ -7,11 +7,11 @@ _**🛒 Nome do E-commerce:**_
 
 _**👥 Integrantes:**_
 
-Guilherme Leal de Deus — RA: 25216067-2
-João Vitor Melo Figueiredo — RA: 25340355-2
-Murilo de Lima Pereira Marques — RA: 24067131-2
-Pedro Leandro Hack Ruthes — RA: 24170562-2
-Wesley Felipe Siqueira — RA: 24050851-2
+*   **Integrante 01:** Guilherme Leal de Deus **RA:** 25216067-2
+*   **Integrante 02:** João Vitor Melo Figueiredo **RA:** 25340355-2
+*   **Integrante 03:** Murilo de Lima Pereira Marques **RA:** 24067131-2
+*   **Integrante 04:** Pedro Leandro Hack Ruthes **RA:** 24170562-2
+*   **Integrante 05:** Wesley Felipe Siqueira **RA:** 24050851-2
 
 
 _**🛠 Tecnologias Utilizadas:**_
