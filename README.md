@@ -3,7 +3,7 @@
 
 _**🛒 Nome do E-commerce:**_
 
-
+E-nexx.
 
 _**👥 Integrantes:**_
 
@@ -16,7 +16,7 @@ _**👥 Integrantes:**_
 
 _**🛠 Tecnologias Utilizadas:**_
 
-
+Git e Github.
 
 _**📄 Licença:**_
 
